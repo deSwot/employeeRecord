@@ -1,0 +1,6 @@
+Adam,23,5400
+Daniel,23,4500
+Jon Doe,33,13580
+Tom Ana,33,28500
+Hari Yu,22,35000
+
